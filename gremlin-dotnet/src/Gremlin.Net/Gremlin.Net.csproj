@@ -15,7 +15,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-<!--  THIS IS A GENERATED FILE - DO NOT MODIFY THIS FILE DIRECTLY - see pom.xml -->
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup Label="Build">
@@ -25,6 +24,7 @@ limitations under the License.
   </PropertyGroup>
 
   <PropertyGroup Label="Package">
+    <!-- do not edit the version directly - maven updates it automatically -->
     <Version>3.5.0-SNAPSHOT</Version>
     <FileVersion>3.5.0.0</FileVersion>
     <AssemblyVersion>3.5.0.0</AssemblyVersion>
